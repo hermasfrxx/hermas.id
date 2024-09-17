@@ -22,7 +22,7 @@ const BLOG = {
   enableViews: false,
 
   layouts: {
-    pageWidth: '900px',
+    pageWidth: '1000px',
     pageWidthMobile: '88vw',
     pageFontSize: '1rem',
   },
