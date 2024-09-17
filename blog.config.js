@@ -1,29 +1,28 @@
 const BLOG = {
-  author: 'Witt',
-  title: 'Witt - unix.bio',
+  author: 'Hermas Bintang',
+  title: 'Another Person of Hermas/Bintang',
   description:
-    "Hi, I'm Witt. A JavaScript full stack engineer, I'm creating apps and libs to help improve the developer experience.",
-  summary: 'JavaScript 工程师，对开发者体验感兴趣。',
-  language: 'zh-cn',
+    "Hi, Hermas/Bintang here! Sometimes A SysAdmin, Sometime Backend Dev",
+  summary: 'From me to them',
+  language: 'en-us',
   latestLimit: 5,
 
   labels: {
-    default: '所有文章',
-    latest: '最近',
-    list: '所有',
+    default: 'blog',
+    latest: 'latest',
+    list: 'all',
   },
 
-  email: 'unix.bio@gmail.com',
-  github: 'unix',
-  twitter: 'echo_witt',
-  domain: 'unix.bio',
+  email: 'here@hermasbintangpk.com',
+  github: 'StHermas',
+  twitter: 'HiHeikousen',
+  domain: 'hermas.id',
 
-  googleAnalytics: 'UA-110371817-3',
-  cn: true,
-  enableViews: true,
+  googleAnalytics: 'G-4CVYZ90ELJ',
+  enableViews: false,
 
   layouts: {
-    pageWidth: '750px',
+    pageWidth: '900px',
     pageWidthMobile: '88vw',
   },
 }
