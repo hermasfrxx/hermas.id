@@ -2,7 +2,7 @@ const BLOG = {
   author: 'Hermas Bintang',
   title: 'Another Person of Hermas/Bintang',
   description:
-    "Hi, Hermas/Bintang here! Sometimes A SysAdmin, Sometime Backend Dev",
+    "Hi, Hermas/Bintang here! Sometime A SysAdmin, Sometime Backend Dev",
   summary: 'From me to them',
   language: 'en-us',
   latestLimit: 5,
