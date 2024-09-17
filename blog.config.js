@@ -3,8 +3,8 @@ const BLOG = {
   title: 'Another Person of Hermas/Bintang',
   description:
     "Hi, Hermas/Bintang here! Sometime A SysAdmin, Sometime Backend Dev",
-  summary: 'From me to them',
-  language: 'en-us',
+  summary: 'From me to them - Cloud Platform, JS, Golang and some automation apps',
+  language: 'en-Us',
   latestLimit: 5,
 
   labels: {
