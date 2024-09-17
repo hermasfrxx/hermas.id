@@ -24,6 +24,7 @@ const BLOG = {
   layouts: {
     pageWidth: '900px',
     pageWidthMobile: '88vw',
+    pageFontSize: '1rem',
   },
 }
 
